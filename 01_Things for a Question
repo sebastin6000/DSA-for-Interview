@@ -1,5 +1,11 @@
 So In an Interview you are given a question and you have to think these things.
-- Think and finding out the approach for the given question.
+- You have to Think and finding out the approach for the given question.
 - Converting the aproach to code. 
   - we have to find out what are the things need by the approach inorder to convert the code.
   - we have to find out what are the things require by the code to work properly.
+- After all the above you have write code and important things for the code is
+  -> public (you have to know the function is public or privite more often its public)
+  -> static (you have to know either its static or non-static function)
+  -> function name (giving good function name)
+  -> function return type (this is important so you have to know what we are going to return)
+  -> function arguments (you can know this after seeing the question)
