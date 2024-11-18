@@ -7,5 +7,5 @@ So In an Interview you are given a question and you have to think these things.
   -> public (you have to know the function is public or privite more often its public)
   -> static (you have to know either its static or non-static function)
   -> function name (giving good function name)
-  -> function return type (this is important so you have to know what we are going to return)
+  -> function return type (this is important so you have to know what we are going to return and you can deside with constraints also)
   -> function arguments (you can know this after seeing the question)
