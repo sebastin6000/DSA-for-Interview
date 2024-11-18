@@ -1,0 +1,8 @@
+(public or private) (static or non static) (return data type or void) (function name(function arguments)){
+return (data type) or no return type if its (void);
+}
+
+1.Public or Private - How to identifie
+2.static or non static - How to identifie
+3.return data type or void - How to identifie
+4.function name(function arguments) - How to identifie
