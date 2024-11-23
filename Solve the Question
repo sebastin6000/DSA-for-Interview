@@ -1,19 +1,19 @@
 Here's a versatile template for solving any Data Structures and Algorithms (DSA) problem.
 You can follow this structured approach to break down and solve a problem methodically:
 
-DSA Problem-Solving Template
-1.Understand the Problem Statement
-2.Extract Key Information
-3.Identify the Type of Problem
-4.Consider the Constraints
-5.Break the Problem into Smaller Subproblems
-6.Handle Edge Cases
-7.Choose the Right Data Structures
-8.Design the Algorithm
-9.Write the Code
-10.Optimize the Solution
-11.Test the Solution
-12.Analyze Time and Space Complexity
+DSA Problem-Solving Template.
+1.Understand the Problem Statement.
+2.Extract Key Information.
+3.Identify the Type of Problem.
+4.Consider the Constraints.
+5.Break the Problem into Smaller Subproblems.
+6.Handle Edge Cases.
+7.Choose the Right Data Structures.
+8.Design the Algorithm.
+9.Write the Code.
+10.Optimize the Solution.
+11.Test the Solution.
+12.Analyze Time and Space Complexity.
 
 1. Understand the Problem Statement
 Read the problem carefully: Understand the input format, output format, and what the problem is asking.
@@ -92,10 +92,13 @@ Verify correctness: Ensure the solution works for both typical and edge cases.
 12. Analyze Time and Space Complexity
 Time Complexity: Analyze the number of operations based on the size of input (e.g., O(n), O(log n), O(n^2)).
 Space Complexity: Analyze the memory used (e.g., O(n) for an array, O(1) for a constant space solution).
+-------------------------------------------------------------------------------------------------------------
+
 Check if the solution fits within the problem's constraints.
 
 Example Problem Breakdown Using the Template
-Problem: Given an array of integers, find two numbers that sum up to a target value. Return their indices.
+Problem: Given an array of integers, 
+find two numbers that sum up to a target value. Return their indices.
 
 Input:
 nums = [2, 7, 11, 15],
