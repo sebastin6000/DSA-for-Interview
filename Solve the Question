@@ -14,8 +14,15 @@ DSA Problem-Solving Template.
 
 3.Identification Part: Identify the Type of Problem.
   - Recognize patterns
+      - Searching (binary search, linear search)
+      - Sorting (quick sort, merge sort)
+      - Greedy algorithms (minimizing/maximizing)
+      - Dynamic programming (overlapping subproblems, memoization)
+      - Graph problems (BFS, DFS, shortest path)
+      - Recursion or backtracking (divide and conquer)
 
 3.Thinking Part.
+  - Destructure the given problem statement into simple words for the breakdown of subproblems.
   - Break the Problem into Smaller Subproblems like Subproblems as Steps to acomplish the task.
   - Solution for smaller problems.
   - combine the smaller subproblems.
@@ -23,7 +30,7 @@ DSA Problem-Solving Template.
 4.Thinking into Code Converting Part
   - Choose the Right Data Structures
   - Design the Algorithm
-    - Convert the smaller problem into code.
+    - Convert the smaller Subproblems into code.
     - Combine all the smaller code for the Complete Solution.
 
 
