@@ -3,12 +3,12 @@ You can follow this structured approach to break down and solve a problem method
 
 DSA Problem-Solving Template.
 
-1.Understanding Part : Understand the Problem Statement
+1.Understanding: Understand the Problem Statement
   - What is being asked?: Carefully read the description to identify the problem's objective.
 
-2.Imformation Extracting Part:
-  - Input data type - with this identification we come to know what are things availabe for that like methods available, time complexity
-  - Output data type - Understand what output is expected 
+2.Imformation Extracting:
+  - Input data type - with this we can know about the function arguments.
+  - Expected Output - Understand what output is expected with this we understand what to return from the function.
   - Time complexity expectations if any.
   - Consider the Constraints - Input size - helps to thing how big the input
 
