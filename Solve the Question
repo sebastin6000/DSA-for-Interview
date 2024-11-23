@@ -10,7 +10,7 @@ Understanding --> Imformation Extracting --> Thinking Solution --> Thinking into
 
 2.Imformation Extracting:
   - Input data type - with this we can know about the function arguments.
-  - Expected Output - Understand what output is expected with this we understand what to return from the function.
+  - Expected Output with return type - Understand what output is expected with this we understand what to return from the function.
   - Time complexity expectations if any.
   - Understand the Constraints - with this we can understand how much is the Input size that helps to thing how big the input
 
