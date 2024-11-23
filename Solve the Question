@@ -2,23 +2,43 @@ Here's a versatile template for solving any Data Structures and Algorithms (DSA)
 You can follow this structured approach to break down and solve a problem methodically:
 
 DSA Problem-Solving Template.
-1.Understand the Problem Statement.
-2.Extract Key Information.
-3.Identify the Type of Problem.
-4.Consider the Constraints.
-5.Break the Problem into Smaller Subproblems.
-6.Handle Edge Cases.
-7.Choose the Right Data Structures.
-8.Design the Algorithm.
-9.Write the Code.
-10.Optimize the Solution.
+
+1.Understanding Part : Understand the Problem Statement
+  - What is being asked?: Carefully read the description to identify the problem's objective.
+
+2.Imformation Extracting Part:
+  - Input data type - with this identification we come to know what are things availabe for that like methods available, time complexity
+  - Output data type - Understand what output is expected 
+  - Time complexity expectations if any.
+  - Consider the Constraints - Input size - helps to thing how big the input
+
+3.Identification Part: Identify the Type of Problem.
+  - Recognize patterns
+
+3.Thinking Part.
+  - Break the Problem into Smaller Subproblems like Subproblems as Steps to acomplish the task.
+  - Solution for smaller problems.
+  - combine the smaller subproblems.
+
+4.Thinking into Code Converting Part
+  - Choose the Right Data Structures
+  - Design the Algorithm
+    - Convert the smaller problem into code.
+    - Combine all the smaller code for the Complete Solution.
+
+
+------------------------------------- HAVE TO UPDATE THE BELOW INFORMATION AND TEST WITH ABOVE INFORMATION ---------------------------------------------
+
+/*
+9.Write the Code that Handle the Edge Cases.
+10.Test the Code.
+11.Optimize the Code.
 11.Test the Solution.
 12.Analyze Time and Space Complexity.
+*/
 
 1. Understand the Problem Statement
-Read the problem carefully: Understand the input format, output format, and what the problem is asking.
-Clarify edge cases: Think about the special cases like empty inputs, large inputs, or boundary conditions.
-Identify the problem type: Is it related to sorting, searching, dynamic programming, graphs, strings, etc.?
+Read the problem carefully:What is being asked?: Carefully read the description to identify the problem's objective.
 
 2. Extract Key Information
 Identify the input data type and output format (e.g., array, list, string, number).
