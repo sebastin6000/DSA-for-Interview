@@ -10,7 +10,7 @@ DSA Problem-Solving Template.
   - Input data type - with this we can know about the function arguments.
   - Expected Output - Understand what output is expected with this we understand what to return from the function.
   - Time complexity expectations if any.
-  - Understand the Constraints with this we can understand how much is the Input size that helps to thing how big the input
+  - Understand the Constraints - with this we can understand how much is the Input size that helps to thing how big the input
 
 3.Identification Part: Identify the Type of Problem.
   - Recognize patterns
@@ -22,16 +22,15 @@ DSA Problem-Solving Template.
       - Recursion or backtracking (divide and conquer)
 
 3.Thinking Part.
-  - Destructure the given problem statement into simple words for the breakdown of subproblems.
-  - Break the Problem into Smaller Subproblems like Subproblems as Steps to acomplish the task.
-  - Solution for smaller problems.
-  - combine the smaller subproblems.
+  - Destructure the given problem statement into simple words to get intution for conversional solution.
+  - After Finding out Solution in conversional manner and than breaking the conversional solution into smaller subtask.
+  - Complete all the smaller subtask and Combine all of them into solution.
 
 4.Thinking into Code Converting Part
   - Choose the Right Data Structures
   - Design the Algorithm
     - Convert the smaller Subproblems into code.
-    - Combine all the smaller code for the Complete Solution.
+    - Combine all the smaller Subproblems code for the Complete Solution.
 
 
 ------------------------------------- HAVE TO UPDATE THE BELOW INFORMATION AND TEST WITH ABOVE INFORMATION ---------------------------------------------
