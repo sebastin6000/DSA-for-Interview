@@ -10,7 +10,7 @@ DSA Problem-Solving Template.
   - Input data type - with this we can know about the function arguments.
   - Expected Output - Understand what output is expected with this we understand what to return from the function.
   - Time complexity expectations if any.
-  - Consider the Constraints - Input size - helps to thing how big the input
+  - Understand the Constraints with this we can understand how much is the Input size that helps to thing how big the input
 
 3.Identification Part: Identify the Type of Problem.
   - Recognize patterns
