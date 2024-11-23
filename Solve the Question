@@ -3,6 +3,8 @@ You can follow this structured approach to break down and solve a problem method
 
 DSA Problem-Solving Template.
 
+Understanding --> Imformation Extracting --> Thinking Solution --> Thinking into Code Comverting.
+
 1.Understanding: Understand the Problem Statement
   - What is being asked?: Carefully read the description to identify the problem's objective.
 
@@ -12,28 +14,34 @@ DSA Problem-Solving Template.
   - Time complexity expectations if any.
   - Understand the Constraints - with this we can understand how much is the Input size that helps to thing how big the input
 
-3.Identification Part: Identify the Type of Problem.
-  - Recognize patterns
+3.Thinking Solution.
+  -Identification Part: Identify the Type of Problem - Recognize patterns
       - Searching (binary search, linear search)
       - Sorting (quick sort, merge sort)
       - Greedy algorithms (minimizing/maximizing)
       - Dynamic programming (overlapping subproblems, memoization)
       - Graph problems (BFS, DFS, shortest path)
       - Recursion or backtracking (divide and conquer)
-
-3.Thinking Part.
   - Destructure the given problem statement into simple words to get intution for conversional solution.
   - After Finding out Solution in conversional manner and than breaking the conversional solution into smaller subtask.
   - Complete all the smaller subtask and Combine all of them into solution.
 
 4.Thinking into Code Converting Part
-  - Choose the Right Data Structures
-  - Design the Algorithm
+  - Choose the Right Data Structures.
+  - Design the Algorithm with respect to Edge Cases
+     - Consider cases where the input is
+       - Empty arrays, lists, or strings.
+       - Arrays with only one element.
+       - Arrays where no solution exists.
+       - Negative numbers, zeros, very large or very small numbers.
+       - Explicitly test and handle these cases in your solution.
+         The above are some example
+
     - Convert the smaller Subproblems into code.
     - Combine all the smaller Subproblems code for the Complete Solution.
 
 
-------------------------------------- HAVE TO UPDATE THE BELOW INFORMATION AND TEST WITH ABOVE INFORMATION ---------------------------------------------
+--------------------------------------------------- LEARNING ---------------------------------------------
 
 /*
 9.Write the Code that Handle the Edge Cases.
@@ -119,84 +127,3 @@ Verify correctness: Ensure the solution works for both typical and edge cases.
 Time Complexity: Analyze the number of operations based on the size of input (e.g., O(n), O(log n), O(n^2)).
 Space Complexity: Analyze the memory used (e.g., O(n) for an array, O(1) for a constant space solution).
 -------------------------------------------------------------------------------------------------------------
-
-Check if the solution fits within the problem's constraints.
-
-Example Problem Breakdown Using the Template
-Problem: Given an array of integers, 
-find two numbers that sum up to a target value. Return their indices.
-
-Input:
-nums = [2, 7, 11, 15],
-target = 9
-
-Output:
-[0, 1]
-
-
-Step 1: Understand the Problem Statement
-Input: Array nums, target sum.
-Output: Indices of two numbers that sum to the target.
-
-Step 2: Extract Key Information
-Constraints: Array size can be large (e.g., n = 10^5).
-Output should be the indices of the first valid pair.
-We should avoid an O(n^2) brute-force solution due to time constraints.
-
-Step 3: Identify the Type of Problem
-Searching: We're looking for a pair of numbers in the array.
-Optimization: Using a hash map will allow us to find pairs in O(n) time.
-
-Step 4: Consider the Constraints
-We need to solve this problem in linear time (O(n)).
-We’ll use O(n) space to store previously seen numbers (hash map).
-
-Step 5: Break the Problem into Subtasks
-Step 1: Iterate through the array.
-Step 2: For each number, compute its complement (target - num).
-Step 3: If the complement exists in the hash map, return the indices.
-Step 4: If no pair is found after iterating through the array, return None.
-
-Step 6: Handle Edge Cases
-Edge case 1: Empty array—return None.
-Edge case 2: Array with no valid pairs—return None.
-Edge case 3: Array with only one element—return None.
-
-Step 7: Choose the Right Data Structures
-We’ll use a hash map (dictionary) to store numbers as we go through the array,
-allowing constant-time lookup for the complement.
-
-Step 8: Design the Algorithm
-Pseudocode:Create an empty hash map
-For each number in the array:
-Calculate the complement (target - num)
-If complement is in the hash map:
-Return the indices
-Add the current number to the hash map
-Return None if no pair is found
-
-Step 9: Write the Code
-def two_sum(nums, target):
-hashmap = {}
-for i, num in enumerate(nums):
-complement = target - num
-if complement in hashmap:
-return [hashmap[complement], i]
-hashmap[num] = i
-return None
-
-Step 10: Optimize the Solution
-The algorithm is already O(n) in time and space complexity, which is optimal for this problem.
-
-Step 11: Test the Solution
-print(two_sum([2, 7, 11, 15], 9)) # Expected output: [0, 1]
-print(two_sum([1, 2, 3, 4], 8)) # Expected output: None
-print(two_sum([], 5)) # Expected output: None
-
-Step 12: Analyze Time and Space Complexity
-Time Complexity: O(n) (one pass through the array, with constant time hash map lookups).
-Space Complexity: O(n) (hash map stores each number once).
-
-Final Notes
-By following this template, you can break down and solve any DSA problem in a systematic way,
-ensuring you cover all necessary steps and considerations for efficient solutions.
