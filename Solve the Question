@@ -25,8 +25,9 @@ Understanding --> Imformation Extracting --> Thinking Solution --> Thinking into
       - Graph problems (BFS, DFS, shortest path)
       - Recursion or backtracking (divide and conquer)
   - Destructure:
-    Destructure the given problem statement into simple words to get the intution for conversional solution by asking how i am going to solve the question.
-  - After Finding out Solution in conversional manner and than breaking the conversional solution into smaller subtask.
+    Destructure the given problem statement into simple words to get the intution for conversional solution by asking how.
+  - After Finding out Solution in conversional manner and than breaking the conversional solution into smaller subtask 
+    and then ask how can i achieve these conversional Solution Steps.
   - Complete all the smaller subtask and Combine all the Subtask into solution.
 
 4.Thinking into Code Converting:
