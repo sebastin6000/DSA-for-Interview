@@ -16,6 +16,13 @@ Understanding --> Imformation Extracting --> Thinking Solution --> Thinking into
   - Time complexity expectations if any - 
   - Understanding the Constraints - with this we can understand how much is the Input size that helps to thing how big the input
 
+2.Extracting Information from the Problem Statement:
+  - Input data type - 
+  - Expected Output - 
+  - Output return type - 
+  - Understanding Time complexity expectations if any -  
+  - Understanding the Constraints -
+
 3.Thinking Solution for the Problem Statement:
   -Identification Part: Identify the Type of Problem - Recognize patterns
       - Searching (binary search, linear search)
