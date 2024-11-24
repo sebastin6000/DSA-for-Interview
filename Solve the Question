@@ -5,16 +5,18 @@ DSA Problem-Solving Template.
 
 Understanding --> Imformation Extracting --> Thinking Solution --> Thinking into Code Comverting.
 
-1.Understanding: Understand the Problem Statement
+1.Understanding: 
+  - Understand the Problem Statement
   - What is being asked?: Carefully read the description to identify the problem's objective.
 
 2.Imformation Extracting:
   - Input data type - with this we can know about the function arguments.
-  - Expected Output with return type - Understand what output is expected with this we understand what to return from the function.
-  - Time complexity expectations if any.
-  - Understand the Constraints - with this we can understand how much is the Input size that helps to thing how big the input
+  - Expected Output - Understand what output is expected.
+  - Output return type - with this we understand what to return from the function.
+  - Time complexity expectations if any - 
+  - Understanding the Constraints - with this we can understand how much is the Input size that helps to thing how big the input
 
-3.Thinking Solution.
+3.Thinking Solution:
   -Identification Part: Identify the Type of Problem - Recognize patterns
       - Searching (binary search, linear search)
       - Sorting (quick sort, merge sort)
@@ -22,11 +24,12 @@ Understanding --> Imformation Extracting --> Thinking Solution --> Thinking into
       - Dynamic programming (overlapping subproblems, memoization)
       - Graph problems (BFS, DFS, shortest path)
       - Recursion or backtracking (divide and conquer)
-  - Destructure the given problem statement into simple words to get intution for conversional solution.
+  - Destructure:
+    Destructure the given problem statement into simple words to get the intution for conversional solution by asking how i am going to solve the question.
   - After Finding out Solution in conversional manner and than breaking the conversional solution into smaller subtask.
   - Complete all the smaller subtask and Combine all of them into solution.
 
-4.Thinking into Code Converting Part
+4.Thinking into Code Converting:
   - Choose the Right Data Structures.
   - Design the Algorithm with respect to Edge Cases
      - Consider cases where the input is
