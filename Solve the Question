@@ -30,7 +30,7 @@ Understanding --> Imformation Extracting --> Thinking Solution --> Thinking into
     and then ask how can i achieve these conversional Solution Steps.
   - Complete all the smaller subtask and Combine all the Subtask into solution.
 
-4.Thinking into Code Converting:
+4.Conversional Solution into Code:
   - Choose the Right Data Structures.
   - Design the Algorithm with respect to Edge Cases
      - Consider cases where the input is
@@ -42,7 +42,7 @@ Understanding --> Imformation Extracting --> Thinking Solution --> Thinking into
        - Explicitly test and handle these cases in your solution.
          The above are some example
 
-    - Convert the smaller Subproblems into code.
+    - Convert the conversional solution into Subproblems and subproblems into code.
     - Combine all the smaller Subproblems code for the Complete Solution.
 
 
