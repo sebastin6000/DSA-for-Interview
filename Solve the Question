@@ -13,14 +13,14 @@ Understanding --> Imformation Extracting --> Thinking Solution --> Thinking into
   - Input data type - with this we can know about the function arguments.
   - Expected Output - Understand what output is expected.
   - Output return type - with this we understand what to return from the function.
-  - Time complexity expectations if any - 
+  - Understanding Time complexity expectations if any in the given problem statement -  
   - Understanding the Constraints - with this we can understand how much is the Input size that helps to thing how big the input
 
 2.Extracting Information from the Problem Statement:
   - Input data type - 
   - Expected Output - 
   - Output return type - 
-  - Understanding Time complexity expectations if any -  
+  - Understanding Time complexity expectations if any in the given problem statement -  
   - Understanding the Constraints -
 
 3.Thinking Solution for the Problem Statement:
