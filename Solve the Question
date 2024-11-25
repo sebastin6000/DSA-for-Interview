@@ -24,17 +24,20 @@ Understanding --> Imformation Extracting --> Thinking Solution --> Thinking into
   - Understanding the Constraints -
 
 3.Thinking Solution for the Problem Statement:
-  -Identification Part: Identify the Type of Problem - Recognize patterns
+  3.1 Identification Part: Identify the Type of Problem - Recognize patterns
       - Searching (binary search, linear search)
       - Sorting (quick sort, merge sort)
       - Greedy algorithms (minimizing/maximizing)
       - Dynamic programming (overlapping subproblems, memoization)
       - Graph problems (BFS, DFS, shortest path)
       - Recursion or backtracking (divide and conquer)
-  - Destructure:
+
+  3.2 Destructuring:
     Destructure the given problem statement into simple words to get the intution for conversional solution by asking how.
-  - After Finding out Solution in conversional manner and than breaking the conversional solution into smaller subtask 
-    and then ask how can i achieve these conversional Solution Steps.
+
+  3.3 Conversional solution into smaller subtask :
+     After Finding out Solution in conversional manner and than breaking the conversional solution into smaller subtask 
+     and then ask how can i achieve these conversional Solution Steps.
   - Complete all the smaller subtask and Combine all the Subtask into solution.
 
 4.Conversional Solution into Code:
@@ -49,7 +52,7 @@ Understanding --> Imformation Extracting --> Thinking Solution --> Thinking into
        - Explicitly test and handle these cases in your solution.
          The above are some example
 
-    - Convert the conversional solution into Subproblems and subproblems into code.
+    - After converting into conversional solution into Subproblems and now we have do subproblems into code in java.
     - Combine all the smaller Subproblems code for the Complete Solution.
 
 
