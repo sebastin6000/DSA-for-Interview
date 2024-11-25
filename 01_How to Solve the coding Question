@@ -37,11 +37,12 @@ DSA Problem-Solving Template.
       - Recursion or backtracking (divide and conquer)
 
   3.2 Destructuring:
-    Destructure the given problem statement into simple words to get the intution for conversional solution by asking how.
+  - Destructure the given problem statement into simple words to get the intuition for conversational solution by asking how.
 
   3.3 Conversional solution into smaller subtask :
-     After Finding out Solution in conversional manner and than breaking the conversional solution into smaller subtask 
-     and then ask how can i achieve these conversional Solution Steps.
+  - After Finding out Solution in conversational manner and than breaking the conversional solution into smaller subtask 
+     and then ask how I can achieve these conversional Solution Steps.
+
   - Complete all the smaller subtask and Combine all the Subtask into solution.
 
 4.Conversional Solution into Code:
