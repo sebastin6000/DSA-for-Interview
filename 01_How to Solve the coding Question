@@ -3,7 +3,11 @@ You can follow this structured approach to break down and solve a problem method
 
 DSA Problem-Solving Template.
 
-Understanding --> Imformation Extracting --> Thinking Solution --> Thinking into Code Comverting.
+Understanding the problem statement 
+--> Imformation Extracting from the problem statement 
+--> Thinking Solution in conversional manner 
+--> converting the conversional solution into subtasks 
+--> converting the conversional subtasks into code.
 
 1.Understanding the Problem Statement: 
   - Understand the Problem Statement
