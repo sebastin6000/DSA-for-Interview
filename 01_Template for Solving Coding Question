@@ -16,7 +16,7 @@ DSA Problem-Solving Template.
 2.Extracting Information from the Problem Statement:
   - Input data type - with this we can know about the function arguments.
   - Expected Output - Understand what output is expected.
-  - Output return type - with this we understand what to return from the function.
+  - Output return data or data structure type - with this we understand what to return from the function.
   - Understanding Time complexity expectations if any in the given problem statement -  
   - Understanding the Constraints - with this we can understand how much is the Input size that helps to thing how big the input
 
