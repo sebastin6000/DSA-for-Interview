@@ -28,10 +28,11 @@ You can follow this structured approach to break down and solve a problem method
 4.1 After finding the steps from input to output conversion convert the steps into subtasks
 
 5.Input to Output conversion subtasks into Code:
-5.1 Do every subtask in an Efficient manner with efficient Data structure and Algorithm.
-5.1.1 Efficient data structure - 
-5.1.2 Efficient Algorithm / pattern - 
-5.2 Combine all the efficient subtask code and you get result.
+5.1 Things needed to complete eash Subtask ?
+5.2 Do every subtask in an Efficient manner with efficient Data structure and Algorithm.
+5.2.1 Efficient data structure - 
+5.2.2 Efficient Algorithm / pattern - 
+5.3 Combine all the efficient subtask code and you get result.
 
 ------------------------------------ PREVIOUSLY USED TEMPLATE --------------------------------------------
 ----------------------------------------------------------------------------------------------------------
