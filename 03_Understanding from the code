@@ -1,4 +1,0 @@
-if the question is asking boolean output so by default we set either "True" or "False" for its value and then convert later according to which boolean we want(T or F).
-----------
-declare a variable inside a loop to get current value.
------------
