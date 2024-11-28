@@ -22,7 +22,7 @@ You can follow this structured approach to break down and solve a problem method
 2.5 Understanding Time complexity expectations if any in the given problem statement.
 
 3.Thinking Solution for the Problem Statement:
-3.1 Getting Solution from Input and Output:
+3.1 Getting Solution from Input to Output conversion:
 
 4.Input to Output convesion steps into smaller subtasks:
 4.1 After finding the steps from input to output conversion convert the steps into subtasks
