@@ -28,7 +28,8 @@ DSA Problem-Solving Template.
   - Understanding the Constraints -
 
 3.Thinking Solution for the Problem Statement:
-  3.1 Identification Part: Identify the Type of Problem - Recognize patterns
+  3.1 How the input is convented into output in the question. Ask yourself how they done the input to output.
+  3.2 Identification Part: Identify the Type of Problem - Recognize patterns
       - Searching (binary search, linear search)
       - Sorting (quick sort, merge sort)
       - Greedy algorithms (minimizing/maximizing)
@@ -36,10 +37,10 @@ DSA Problem-Solving Template.
       - Graph problems (BFS, DFS, shortest path)
       - Recursion or backtracking (divide and conquer)
 
-  3.2 Destructuring:
+  3.3 Destructuring:
   - Destructure the given problem statement into simple words to get the intuition for conversational solution by asking how.
 
-  3.3 Conversional solution into smaller subtask :
+  3.4 Conversional solution into smaller subtask :
   - After Finding out Solution in conversational manner and than breaking the conversional solution into smaller subtask 
      and then ask how I can achieve these conversional Solution Steps.
 
