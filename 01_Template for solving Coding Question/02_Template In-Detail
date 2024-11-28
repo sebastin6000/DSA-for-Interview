@@ -3,6 +3,28 @@ You can follow this structured approach to break down and solve a problem method
 
 ------------------------------------ UP-TO-DATE TEMPLATE --------------------------------------------
 
+1.Understanding the Problem Statement:
+2.Extracting Information from the Problem Statement:
+2.1 Input data type or data structure - 
+2.2 Expected Output - 
+2.3 Output return data type (or) data structure type - 
+2.4 Understanding the Constraints - 
+2.5 Understanding Time complexity expectations if any in the given problem statement.
+
+3.Thinking Solution for the Problem Statement:
+3.1 Getting Solution from Input to Output conversion:
+
+4.Input to Output convesion steps into smaller subtasks:
+4.1 After finding the steps from input to output conversion convert the steps into subtasks
+
+5.Input to Output conversion subtasks into Code:
+5.1 Things needed to complete eash Subtask ? : For this go any IDE with the subtasks and start to code.
+5.2 Do every subtask in an Efficient manner with efficient Data structure and Algorithm.
+5.2.1 Efficient data structure - 
+5.2.2 Efficient Algorithm / pattern - 
+
+------------------------------------ PREVIOUSLY USED TEMPLATE --------------------------------------------
+
 DSA Problem-Solving Template.
 
 --> Understanding the problem statement
@@ -20,7 +42,7 @@ DSA Problem-Solving Template.
 2.Extracting Information from the Problem Statement:
 - Input data type - with this we can know about the function arguments.
 - Expected Output - Understand what output is expected.
-- Output return data (or) data structure type - with this we understand what to return from the function.
+- Output return data (or) data structure type - with this we understand what to return from the function so decide this with the input size given in constraints.
 - Understanding Time complexity expectations if any in the given problem statement.
 - Understanding the Constraints - with this we can understand how much is the Input size that helps to thing how big the input is.
 - Efficient data structure for handling the input for the result( thinking where to put)
