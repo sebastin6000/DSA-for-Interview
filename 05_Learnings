@@ -1,7 +1,0 @@
-To extract indicidual digit from a 2 digit number, 3 digit till the n digit number and all these present inside a array
-1.you have to convert every 2 digit, 3 digit into string 
-2.now you can have the access for every indidual element in the string.
-Input: nums = [131, 11, 48]
-so the number 131 is convented into "131" so with this we can access individual characters.
-
-----------------------------------------------------------------------------------------
