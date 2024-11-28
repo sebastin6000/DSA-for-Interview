@@ -28,7 +28,10 @@ DSA Problem-Solving Template.
   - Understanding the Constraints -
 
 3.Thinking Solution for the Problem Statement:
-  3.1 How the input is convented into output in the question. Ask yourself how they done the input to output.
+  3.1 How the input is convented into output in the question. 
+      Ask yourself how they done the input to output.
+      Do the same to achieve the result.
+
   3.2 Identification Part: Identify the Type of Problem - Recognize patterns
       - Searching (binary search, linear search)
       - Sorting (quick sort, merge sort)
