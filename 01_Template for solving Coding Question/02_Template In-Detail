@@ -5,33 +5,30 @@ You can follow this structured approach to break down and solve a problem method
 
 1.Understanding the Problem Statement:
 2.Extracting Information from the Problem Statement:
-2.1 Input data type or data structure - 
-2.2 Expected Output - 
-2.3 Output return data type (or) data structure type - 
-2.4 Understanding the Constraints - 
-2.5 Understanding Time complexity expectations if any in the given problem statement.
+2.1 Input data type or data structure. 
+2.2 Expected Output.
+2.3 Output return data type (or) data structure type. 
+2.4 Understanding the Constraints in the problem statement.
+2.5 Understanding Time complexity expectations if mentioned in the given problem statement.
 
 3.Thinking Solution for the Problem Statement:
-3.1 Getting Solution from Input to Output conversion:
+3.1 Getting Solution from Input to Output conversion.
 
 4.Input to Output convesion steps into smaller subtasks:
-4.1 After finding the steps from input to output conversion convert the steps into subtasks
+4.1 After finding the steps from input to output conversion convert the steps into subtasks.
 
 5.Input to Output conversion subtasks into Code:
-5.1 Things needed to complete eash Subtask ? : For this go any IDE with the subtasks and start to code.
-5.2 Do every subtask in an Efficient manner with efficient Data structure and Algorithm.
-5.2.1 Efficient data structure - 
+5.1 Code Requirement to complete the subtasks :
+    need a loop ?, 
+    need a data structure ?, 
+    need a if codition ?. 
+    and more(because i just mentioned few things only) for the problem statement is requiring to complete the subtask. 
+5.2 Do every subtask with efficient Data structure and Algorithm.
+5.2.1 Efficient data structure.
+5.2.2 Efficient Algorithm / pattern. 
 5.2.2 Efficient Algorithm / pattern - 
 
------------------------------------- PREVIOUSLY USED TEMPLATE --------------------------------------------
-
-DSA Problem-Solving Template.
-
---> Understanding the problem statement
---> Extracting Imformation from the problem statement
---> Thinking Solution from Input to Output conversion from the question.
---> Input to Output convesion steps into smaller subtasks
---> Converting all the subtasks into code.
+------------------------------------ TEMPLATE IN DETAIL --------------------------------------------
 
 1.Understanding the Problem Statement:
 - Understand the Problem Statement
@@ -40,12 +37,16 @@ DSA Problem-Solving Template.
 - So in interview write the Input to output in paper with this you can simplify the explaination of the question and at the smae time you can saving some time.
 
 2.Extracting Information from the Problem Statement:
-- Input data type - with this we can know about the function arguments.
-- Expected Output - Understand what output is expected.
-- Output return data (or) data structure type - with this we understand what to return from the function so decide this with the input size given in constraints.
-- Understanding Time complexity expectations if any in the given problem statement.
-- Understanding the Constraints - with this we can understand how much is the Input size that helps to thing how big the input is.
-- Efficient data structure for handling the input for the result( thinking where to put)
+2.1 Input data type : 
+                    - With this we can know about the function arguments.
+                    - This can find out according to input size mentioned in constraints(this is for jave)
+2.2 Expected Output : 
+                   - Understand what output is expected.
+2.3 Output return data (or) data structure type :
+                   - with this we understand what to return from the function so decide this with the input size given in constraints.
+2.4 Understanding Time complexity expectations if any in the given problem statement.
+2.5 Understanding the Constraints : 
+                   - with this we can understand how much is the Input size that helps to thing how big the input is.
 
 2.Extracting Information from the Problem Statement:
 - Input data type -
