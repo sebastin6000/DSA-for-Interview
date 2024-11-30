@@ -1,10 +1,8 @@
-Here's a versatile template for solving any Data Structures and Algorithms (DSA) problem.
-You can follow this structured approach to break down and solve a problem methodically:
+                                                 FOLLOWING THIS STRUCTURED APPROACH TO SOLVE ANY DSA PROBLEM
+                                                 -----------------------------------------------------------
 
------------------------------------- UP-TO-DATE TEMPLATE --------------------------------------------
------------------------------------------------------------------------------------------------------
 
-                                 DSA Problem-Solving Template.
+------------------------------------ UP-TO-DATE DSA PROBLEM-SOLVING TEMPLATE --------------------------------------------
 
 1. Understanding the problem statement
 2. Extracting Imformation from the problem statement
@@ -18,7 +16,7 @@ You can follow this structured approach to break down and solve a problem method
 2.1 Input data type or data structure - 
 2.2 Expected Output - 
 2.3 Output return data type (or) data structure type - 
-2.4 Understanding the Constraints - 
+2.4 Understanding the Constraints in the problem statement- 
 2.5 Understanding Time complexity expectations if any in the given problem statement.
 
 3.Thinking Solution for the Problem Statement:
@@ -28,10 +26,17 @@ You can follow this structured approach to break down and solve a problem method
 4.1 After finding the steps from input to output conversion convert the steps into subtasks
 
 5.Input to Output conversion subtasks into Code:
-5.1 Coding Requirement like need a loop ?, need a data structure ?, need a if codition for comparasion etc to complete eash Subtask.
-5.2 Do every subtask in an Efficient manner with efficient Data structure and Algorithm.
+5.1 Code Requirement to complete the subtasks :
+    need a loop ?, 
+    need a data structure ?, 
+    need a if codition ?. etc
+5.2 Do every subtask with efficient Data structure and Algorithm.
 5.2.1 Efficient data structure - 
 5.2.2 Efficient Algorithm / pattern - 
+
+------------------------------------ CONTINUE UPDATING THIS TEMPLATE --------------------------------------------
+
+
 
 ------------------------------------ PREVIOUSLY USED TEMPLATE --------------------------------------------
 ----------------------------------------------------------------------------------------------------------
@@ -101,4 +106,3 @@ The above are some example
 - After converting the conversional solution into Subtasks and now we have to convert subtasks into code in java.
 - Combine all the smaller Subproblems code for the Complete Solution.
 
------------------------------------- CONTINUE UPDATING THIS TEMPLATE --------------------------------------------
