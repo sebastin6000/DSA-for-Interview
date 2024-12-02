@@ -33,20 +33,18 @@ You can follow this structured approach to break down and solve a problem method
 1.Understanding the Problem Statement:
 - Understand the Problem Statement
 - What is being asked?: Carefully read the description to identify the problem's objective.
+- Expected Output - Understand what output is expected.
 - In interview see the input to output conversion part you can understand the problem statement little quickly or easyly.
 - So in interview write the Input to output in paper with this you can simplify the explaination of the question and at the smae time you can saving some time.
 
 2.Extracting Information from the Problem Statement:
-2.1 Input data type : 
-                    - With this we can know about the function arguments.
-                    - This can find out according to input size mentioned in constraints(this is for jave)
-2.2 Expected Output : 
-                   - Understand what output is expected.
-2.3 Output return data (or) data structure type :
-                   - with this we understand what to return from the function so decide this with the input size given in constraints.
-2.4 Understanding Time complexity expectations if any in the given problem statement.
-2.5 Understanding the Constraints : 
-                   - with this we can understand how much is the Input size that helps to thing how big the input is.
+2.1 Input data type - With this we can know about the function arguments.
+                    - This can find out according to input size mentioned in constraints(this is for java)
+
+2.2 Output return data (or) data structure type - with this we understand what to return from the function so decide this with the input size given in constraints.
+2.3 Understanding Time complexity expectations if any in the given problem statement.
+2.4 Understanding the Constraints - with this we can understand how much is the Input size that helps to thing how big the input is.
+                                  - Space complexity can also be 
 
 2.Extracting Information from the Problem Statement:
 - Input data type -
