@@ -1,6 +1,3 @@
-                                                 FOLLOWING THIS STRUCTURED APPROACH TO SOLVE ANY DSA PROBLEM
-                                                 -----------------------------------------------------------
-
 
 ------------------------------------ UP-TO-DATE DSA PROBLEM-SOLVING TEMPLATE --------------------------------------------
 
@@ -10,40 +7,11 @@
 4. Input to Output convesion steps into smaller subtasks
 5. Converting all the subtasks into code.
 
--------------------------------------------------------------------------------------------------------
-1.Understanding the Problem Statement:
-1.1 Understand the Problem Statement.
-    What is being asked?
-    Carefully read the description to identify the problem's objective.
-1.2 Expected Output.
-2.Extracting Information from the Problem Statement:
-2.1 Input data type or data structure.
-2.2 Output return data type (or) data structure type. 
-2.3 Understanding the Constraints in the problem statement.
-2.4 Understanding Time complexity expectations if mentioned in the given problem statement.
-
-3.Thinking Solution for the Problem Statement:
-3.1 Getting Solution from Input to Output conversion.
-
-4.Input to Output convesion steps into smaller subtasks:
-4.1 After finding the steps from input to output conversion convert the steps into subtasks.
-
-5.Input to Output conversion subtasks into Code:
-5.1 Code Requirement to complete the subtasks :
-    need a loop ?, 
-    need a data structure ?, 
-    need a if codition ?. 
-    and more(because i just mentioned few things only) for the problem statement is requiring to complete the subtask. 
-5.2 Do every subtask with efficient Data structure and Algorithm.
-5.2.1 Efficient data structure.
-5.2.2 Efficient Algorithm / pattern. 
-
 ------------------------------------ I WILL CONTINUE UPDATING THIS TEMPLATE --------------------------------------------
 
 
 
------------------------------------- PREVIOUSLY USED TEMPLATE --------------------------------------------
-----------------------------------------------------------------------------------------------------------
+---------PREVIOUSLY USED TEMPLATE ----------------------------------------------------------------------------------------------------------
 
                                     DSA Problem-Solving Template.
 
