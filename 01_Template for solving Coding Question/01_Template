@@ -12,12 +12,15 @@
 
 -------------------------------------------------------------------------------------------------------
 1.Understanding the Problem Statement:
+1.1 Understand the Problem Statement.
+    What is being asked?
+    Carefully read the description to identify the problem's objective.
+1.2 Expected Output.
 2.Extracting Information from the Problem Statement:
-2.1 Input data type or data structure. 
-2.2 Expected Output.
-2.3 Output return data type (or) data structure type. 
-2.4 Understanding the Constraints in the problem statement.
-2.5 Understanding Time complexity expectations if mentioned in the given problem statement.
+2.1 Input data type or data structure.
+2.2 Output return data type (or) data structure type. 
+2.3 Understanding the Constraints in the problem statement.
+2.4 Understanding Time complexity expectations if mentioned in the given problem statement.
 
 3.Thinking Solution for the Problem Statement:
 3.1 Getting Solution from Input to Output conversion.
@@ -58,7 +61,6 @@
 
 2.Extracting Information from the Problem Statement:
 - Input data type - with this we can know about the function arguments.
-- Expected Output - Understand what output is expected.
 - Output return data (or) data structure type - with this we understand what to return from the function.
 - Understanding Time complexity expectations if any in the given problem statement -
 - Understanding the Constraints - with this we can understand how much is the Input size that helps to thing how big the input
