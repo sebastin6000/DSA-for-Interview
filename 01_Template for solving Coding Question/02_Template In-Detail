@@ -18,6 +18,7 @@ You can follow this structured approach to break down and solve a problem method
 4.1 After finding the steps from input to output conversion convert the steps into subtasks.
 
 5.Input to Output conversion subtasks into Code:
+- if you can't code always see the input to output conversion and write or understand code
 5.1 Code Requirement to complete the subtasks :
     need a loop ?, 
     need a data structure ?, 
@@ -64,7 +65,7 @@ do the same to achieve the result.
 - After Finding out how in question the input is convented into Output create a subtasks to achieve the result.
 - Complete all the smaller subtask and Combine all the Subtask into solution.
 
-4.Input to Output conversion subtasks into Code:
+4.Input to Output conversion Subtasks into Code:
 4.1 Do every subtask in an Efficient manner.
 - Find out what type of task you are going to do for example Searching, Sorting etc
 - Find out what are the things available for the task for effieincy.
